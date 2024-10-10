@@ -1,0 +1,33 @@
+company,job,degree,salary_more_then_100k
+google,sales executive,bachelors,0
+google,sales executive,masters,0
+google,business manager,bachelors,1
+google,business manager,masters,1
+google,computer programmer,bachelors,0
+facebook,software engineer,bachelors,1
+facebook,software engineer,masters,1
+apple,software engineer,bachelors,1
+apple,software engineer,masters,1
+amazon,software engineer,bachelors,1
+amazon,software engineer,masters,1
+microsoft,software engineer,bachelors,1
+microsoft,software engineer,masters,1
+netflix,data scientist,bachelors,1
+netflix,data scientist,masters,1
+uber,software engineer,bachelors,0
+uber,software engineer,masters,0
+tesla,software engineer,bachelors,1
+tesla,software engineer,masters,1
+google,data analyst,bachelors,0
+google,data analyst,masters,0
+facebook,data analyst,bachelors,0
+facebook,data analyst,masters,0
+apple,data analyst,bachelors,0
+apple,data analyst,masters,0
+amazon,data analyst,bachelors,0
+amazon,data analyst,masters,0
+microsoft,data analyst,bachelors,0
+microsoft,data analyst,masters,0
+netflix,data engineer,bachelors,0
+netflix,data engineer,masters,0
+
